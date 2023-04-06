@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jtjtbest
-- 👀 I’m interested in SDE
-- 🌱 I’m currently learning java and React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m SDE
+- 💞️ I’m looking to collaborate on anything tech related, currently crazy about ChatGPT and prompt engineering.
 
 <!---
 jtjtbest/jtjtbest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
